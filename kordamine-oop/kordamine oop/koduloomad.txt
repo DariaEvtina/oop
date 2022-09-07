@@ -1,0 +1,13 @@
+====KASS====
+
+Tõug: sfinks Värv: sinine Nimi: sarik Sugu: emane Kaal: 5,5 Vanus: 7
+
+Tõug: mainkun Värv: must Nimi: julia Sugu: emane Kaal: 5,5 Vanus: 7
+
+====KASS====
+
+====KOER====
+
+Tõug: chihuahua Värv: kolane Nimi: puk Sugu: isane Kaal: 35,5 Vanus: 2
+
+====KOER====
