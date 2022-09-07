@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace kordamine_oop
 {
-    internal class kass : koduloom
+    internal class kass : koduloom 
     {
         public string[] loomad_ = new string[] { };
         public string toug;
