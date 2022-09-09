@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\Source\\Repos\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\dariaEvtinaTARpv20\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\Source\\Repos\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\dariaEvtinaTARpv20\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\dariaEvtinaTARpv20\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj",
         "projectName": "kordamine oop",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\dariaEvtinaTARpv20\\oop\\kordamine-oop\\kordamine oop\\kordamine oop.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\oop\\kordamine-oop\\kordamine oop\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\dariaEvtinaTARpv20\\oop\\kordamine-oop\\kordamine oop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
